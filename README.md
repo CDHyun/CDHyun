@@ -6,8 +6,7 @@
 </div>
 <div align="center">
 	<p> Languages & OS </p>
-		<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
-		<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
+		<img src="https://img.shields.io/badge/Java-EC1C24?style=flat&logo=CoffeeScript&logoColor=white" />
 		<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white" />
 		<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 		<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
