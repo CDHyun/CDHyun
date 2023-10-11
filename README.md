@@ -1,7 +1,3 @@
-### Hi there 👋
-
-
-
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Donghyun's%20Github&fontSize=50" />
 </div>
@@ -15,7 +11,6 @@
 		<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 		<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 		<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white" />
-    
 	<br>
 		<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
 	 	<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -25,7 +20,6 @@
 	<br>
 	<p>🧱 Frameworks & Platform 🧱<p>
 		<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
-		<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white" />
 		<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" />
 		<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=FLask&logoColor=white" />
 		<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
@@ -38,7 +32,6 @@
 	<p>📚 Libraries 📚<p>
 		<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
 		<img src="https://img.shields.io/badge/MyBatis-000000?style=flat&logo=twitter&logoColor=white" />
-		<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white"/>
 	<br>
 </div>
 <br>
@@ -86,28 +79,4 @@
 	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOh-Kang94&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 </a>
 </div align=center>
-<!--
-<div align=center>
-	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oh-Kang94&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=Oh-Kang94&show_icons=true">
--->
-<!--
-![Oh-Kang94's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=Oh-Kang94)
-<br>
--->
 
-<!--
-**CDHyun/CDHyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
