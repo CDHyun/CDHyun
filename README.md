@@ -2,7 +2,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Donghyun's%20Github&fontSize=50" />
 </div>
 <div align=center>
-	<h3>🧰 Once I used this.. 🧰</h3>
+	<h2>저는 이런 것들을 할 줄 압니다!</h2>
 </div>
 <div align="center">
 	<p>💬 Languages & OS💬</p>
