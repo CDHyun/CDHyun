@@ -5,7 +5,7 @@
 	<h2>저는 이런 것들을 할 줄 압니다!</h2>
 </div>
 <div align="center">
-	<h4> Languages & OS </h4>
+	<p> Languages & OS </p>
 		<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 		<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white" />
 		<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
@@ -18,7 +18,7 @@
 		<img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=Macos&logoColor=white" />
 	<br>
 	<br>
-	<h4> Frameworks & Platform </h4>
+	<p> Frameworks & Platform </p>
 		<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 		<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white" />
 		<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
@@ -26,33 +26,33 @@
 		<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=FLask&logoColor=white" />
 		<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
 	<br>
-	<h4> DB </h4>
+	<p> DB </p>
 		<img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
 		<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=Mysql&logoColor=white" />
 		<img src="https://img.shields.io/badge/Sqlite-003B57?style=flat&logo=Sqlite&logoColor=white" />
 		<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />
 	<br>
-	<b4> Libraries </b4>
+	<p> Libraries </p>
 		<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
 		<img src="https://img.shields.io/badge/MyBatis-000000?style=flat&logo=twitter&logoColor=white" />
 	<br>
 </div>
 <br>
 <div align=center>
-	<h3>🛠 Tools 🛠</h3>
+	<h3> Tools </h3>
 </div>
 <div align=center>
-	<p> 🧑‍💻 IDE 🧑‍💻<p>
+	<p> IDE <p>
 		<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 		<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 		<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
 	  	<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white"/>
 	<br>
-	<p> 🌩 Deploy & Cloud 🌩<p>
+	<p> Server & Cloud <p>
 		<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
-		<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
-	<p> 🏢 Cowork Tools 🏢<p>
+		<img src="https://img.shields.io/badge/googlecloud-4285F4?style=flat&logo=Google Cloud Platform&logoColor=white" />
+	<p> Cowork Tools <p>
 	  	<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Miro-050038?style=flat-square&logo=Miro&logoColor=white"/>
