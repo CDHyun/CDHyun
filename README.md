@@ -65,10 +65,10 @@
 	<h3>📱 Contact & Portfolio 📱</h3>
 </div>
 <div align=center>
-	<a href="mailto:okh19941994@naver.com">
+	<a href="mailto:cdh4105@naver.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=for-the-badge&logo=Naver&logoColor=white" />
 	</a>
-	<a href="https://oh-kang.notion.site/05ebece9d4a94f328905a546473944cd?pvs=4">
+	<a href="https://www.notion.so/cf5f99282de0425dbd9c245a576cb1ca">
 		<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
 	</a>
 	<br>
