@@ -5,7 +5,7 @@
 	<h2>저는 이런 것들을 할 줄 압니다!</h2>
 </div>
 <div align="center">
-	<p>💬 Languages & OS💬</p>
+	<h5> Languages </h5>
 		<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 		<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white" />
 		<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
@@ -61,6 +61,7 @@
 	</p>
 </div>
 <br>
+<!--
 <div align=center>
 	<h3>📱 Contact & Portfolio 📱</h3>
 </div>
@@ -75,6 +76,7 @@
 </div>
 <br>
 <br>
+-->
 <div align=center>
 	<!--Hits 설정 -->
 <a href="https://github.com/CDHyun">
