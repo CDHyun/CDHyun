@@ -78,8 +78,7 @@
 <br>
 <br>
 -->
-<br>
-<br>
+
 <div align=center>
 	<!--Hits 설정 -->
 <a href="https://github.com/CDHyun">
